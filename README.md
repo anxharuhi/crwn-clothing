@@ -1,4 +1,7 @@
 React learning project from ZTM course
+Made with React.
+
+TO-DO: fix this repo README.md
 
 ---
 
